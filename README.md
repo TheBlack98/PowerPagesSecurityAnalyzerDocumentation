@@ -1,6 +1,6 @@
 # Power Pages Security Analyzer
+
 <img src="./icon.svg" alt="Logo" width="120" />
-![Logo](./icon.svg)
 
 Power Pages Security Analyzer is an XrmToolBox plugin designed to help you **understand, visualize, and analyze the security configuration of your Power Pages environment**.
 
